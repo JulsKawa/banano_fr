@@ -1,9 +1,13 @@
-Template for the Read the Docs tutorial
-=======================================
+![Banano](https://banano.cc/assets/press-assets/banano-icon.png)
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+# Bienvenue sur la documentation de la cryptomonnaie Banano
+===========================================================
 
-Read the tutorial here:
+## Qu'est-ce que Banano ?
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Banano est une cryptomonnaie avec des transactions sans frais et instantanées. Elle est distribuée gratuitement et équitablement à la communauté.
+
+## Comment contribuer à cette documentation ?
+Merci de ne pas commit directement sur la branche principal mais sur une branche de développent pour ensuite faire une pull request.
+
+[Banano](http://banano.cc/)

@@ -1,22 +1,19 @@
-Welcome to Lumache's documentation!
+Bienvenue sur une documentation de la cryptomonnaie Banano !
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Banano** est une cryptomonnaie distribuée gratuitement et équitablement où
+les transactions sont *instantanées* et *sans frais* .
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-.. note::
+.. notes::
 
    This project is under active development.
 
-Contents
+Contenu 
 --------
 
 .. toctree::
 
-   usage
-   api
+   None
